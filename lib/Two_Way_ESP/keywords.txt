@@ -1,0 +1,10 @@
+#######################################
+# Methods and Functions
+#######################################
+
+TwoWayESP::Begin    	    KEYWORD2
+TwoWayESP::Available    	KEYWORD2
+TwoWayESP::GetString    	KEYWORD2
+TwoWayESP::GetBytes 	    KEYWORD2
+TwoWayESP::SendString   	KEYWORD2
+TwoWayESP::SendBytes    	KEYWORD2
